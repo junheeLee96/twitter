@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/twitter/static/css/main.096fd1d5.css",
+    "main.js": "/twitter/static/js/main.cdaa4ac2.js",
+    "index.html": "/twitter/index.html",
+    "main.096fd1d5.css.map": "/twitter/static/css/main.096fd1d5.css.map",
+    "main.cdaa4ac2.js.map": "/twitter/static/js/main.cdaa4ac2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.096fd1d5.css",
+    "static/js/main.cdaa4ac2.js"
+  ]
+}
