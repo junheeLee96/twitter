@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+But it dosen't work because of Error of 'React-router-dom v6'.
+So, I coding agin in another app "https://github.com/junheeLee96/twitters".
 
 ## Available Scripts
 
